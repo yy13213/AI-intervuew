@@ -1,0 +1,71 @@
+{
+  "generated_at": "2025-07-18T00:31:55.293257",
+  "candidate_name": "余涵",
+  "interview_position": "Python开发工程师",
+  "tech_domain": "Python, Django, Flask",
+  "strict_mode": true,
+  "questions": {
+    "能力评估": [
+      {
+        "question": "请描述您在Python项目中遇到的一个复杂问题，并详细说明您是如何分析和解决的。",
+        "importance": 1,
+        "difficulty": "hard"
+      },
+      {
+        "question": "在开发过程中，您如何确保代码的质量和可维护性？请结合具体实例说明。",
+        "importance": 2,
+        "difficulty": "medium"
+      }
+    ],
+    "岗位匹配度": [
+      {
+        "question": "请结合您的经验，谈谈您对Python开发工程师岗位的理解，以及您认为该岗位的核心职责是什么。",
+        "importance": 1,
+        "difficulty": "hard"
+      },
+      {
+        "question": "您为什么选择Python作为主要开发语言？请结合您的职业规划和技术兴趣进行阐述。",
+        "importance": 2,
+        "difficulty": "medium"
+      }
+    ],
+    "专业能力测试": [
+      {
+        "question": "请解释Python中的元类（metaclass）及其在实际开发中的应用，并给出一个使用元类的代码示例。",
+        "importance": 1,
+        "difficulty": "hard"
+      },
+      {
+        "question": "在Django中，如何实现一个自定义的中间件来处理请求和响应？请详细描述实现步骤，并提供关键代码片段。",
+        "importance": 2,
+        "difficulty": "hard"
+      },
+      {
+        "question": "Flask是一个轻量级的Web框架，请描述其核心组件及其工作原理，并解释如何在Flask中实现蓝图（Blueprint）功能。",
+        "importance": 3,
+        "difficulty": "medium"
+      }
+    ],
+    "candidate_name": "余涵",
+    "简历深挖": [
+      {
+        "question": "您在贵泽实业有限公司担任行政主管期间，如何通过技术手段提升行政管理效率？请结合具体案例说明。",
+        "importance": 1,
+        "difficulty": "hard",
+        "focus_area": "工作经验与技能匹配"
+      },
+      {
+        "question": "您在一路网络科技有限公司担任行政助理时，如何处理过涉及跨部门协作的复杂行政问题？请举例说明解决思路和结果。",
+        "importance": 2,
+        "difficulty": "medium",
+        "focus_area": "工作经验与项目管理能力"
+      },
+      {
+        "question": "您提到熟练使用办公自动化软件（如Excel），能否分享一个您用这些工具解决实际工作问题的案例？例如数据分析或流程优化。",
+        "importance": 3,
+        "difficulty": "medium",
+        "focus_area": "技能匹配与动手能力"
+      }
+    ]
+  }
+}
